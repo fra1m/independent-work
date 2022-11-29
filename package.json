@@ -1,0 +1,23 @@
+{
+  "name": "tests",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fra1m/independent-work.git"
+  },
+  "author": "fra1m",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fra1m/independent-work/issues"
+  },
+  "homepage": "https://github.com/fra1m/independent-work#readme"
+}
